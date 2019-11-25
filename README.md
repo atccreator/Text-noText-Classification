@@ -1,9 +1,10 @@
-# text-noText-Classification
-Text-No Text classification.
-I have done it using sigmoid neuron from scratch with 98% accuracy.
+# Text-noText-Classification
+The goal is to identify the presence of a character in images using MP Neuron / Perceptron / Perceptron with sigmoid. The character images are compiled in Tamil, Hindi and English. I have done it using sigmoid neuron from scratch with 98% accuracy.
 
-# PadhAI: Text - Non Text Classification Level 1
-Link: https://www.kaggle.com/c/padhai-module1-level-1
+About Data set
 
-# PadhAI: Text - Non Text Classification Level 2
-Link: https://www.kaggle.com/c/padhai-module1-level2
+Tamil Character Data:
+http://www.jfn.ac.lk/index.php/data-sets-printed-tamil-characters-printed-documents/
+
+Hindi Character Data:
+https://www.kaggle.com/ashokpant/devanagari-character-dataset
